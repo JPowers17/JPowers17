@@ -16,7 +16,7 @@ Welcome to my GitHub.
 - ☁️ **[Serverless Cloud Project](https://github.com/JPowers17/serverless-data-pipeline):** Serverless data processing pipeline project. Deployed on AWS.
 
 ## 📃 Certifications
-- CompTIA A+ | 2026 – 2028
+- CompTIA A+ | 2026 – 2029
 - Google IT Support Professional Certificate | 2026
 - Google Cybersecurity Professional Certificate | 2026
 
