@@ -4,7 +4,7 @@ Welcome to my GitHub.
 
 ## 👩🏻‍💻 About Me
 - 🌐 Exploring IT systems, databases, cybersecurity, and cloud computing.
-- 🎓 Currently completing the Per Scholas IT Support training program, which covers hardware, software, operating systems, networking, cybersecurity and cloud fundamentals.
+- 🎓 Recently completed the Per Scholas IT Support training program, which covers hardware, software, operating systems, networking, cybersecurity and cloud fundamentals.
 - 🎯 Developing strong foundations in Windows, Linux, and macOS.
 - 🔧 Hands-on with Google Cloud, AWS, and Azure Free Tiers, LAMP stacks, and virtual machines.
 - ⚙️ Goal: Transition into a cloud or cybersecurity career.
@@ -34,10 +34,6 @@ Welcome to my GitHub.
   - Welcome to ServiceNow
   - IT Service Management (ITSM) Fundamentals On Demand
   - What is Agentic AI?
-- **IBM SkillsBuild**
-  - Information Technology Career Pathway
-    - Information Technology: Cloud Computing Fundamentals, Customer Service
-    - Professional Development: Project Management Fundamentals, Cybersecurity Fundamentals, Data Fundamentals
 - **edX**
   - HarvardX: Introduction to Digital Humanities
 
