@@ -27,6 +27,8 @@ Welcome to my GitHub.
 - **AWS Educate**  
   - Introduction to Cloud 101
   - Introduction to the AWS Management Console
+- **AWS Skill Builder**  
+  - Amazon Connect Fundamentals
 - **Microsoft Learn**
   - Introduction to Cloud Infrastructure
   - AZ-104 Azure Administrator Series
