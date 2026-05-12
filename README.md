@@ -24,6 +24,7 @@ Welcome to my GitHub.
 - **Cisco Networking Academy**
   - Operating Systems Basics
   - Computer Hardware Basics
+  - Introduction to Cybersecurity
 - **AWS Educate**  
   - Introduction to Cloud 101
   - Introduction to the AWS Management Console
