@@ -14,6 +14,7 @@ Welcome to my GitHub.
 - ☁️ **[Database Cloud Project](https://github.com/JPowers17/aws-rds-project):** MySQL RDS database management and cloud architecture project. Architected and deployed on AWS.
 - 🔐 **[SOC Analyst Home Lab Project](https://github.com/JPowers17/soc-home-lab-brute-force):** End-to-end SOC lab simulating SSH brute-force attacks and detection using Splunk SIEM with centralized Linux log ingestion.
 - ☁️ **[Serverless Cloud Project](https://github.com/JPowers17/serverless-data-pipeline):** Serverless data processing pipeline project. Deployed on AWS.
+- 🤖 **[IT Help Desk Chatbot QA Project](https://github.com/JPowers17/it-helpdesk-chatbot-qa-project):** Chatbot QA project simulating IT help desk support workflows using Voiceflow, including conversational flow design, functional testing, edge-case validation, and usability-focused QA analysis.
 
 ## 📃 Certifications
 - CompTIA A+ | 2026 – 2029
