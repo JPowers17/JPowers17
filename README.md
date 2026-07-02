@@ -7,7 +7,6 @@ Welcome to my GitHub.
 - 🎓 Recently completed the Per Scholas IT Support training program, which covers hardware, software, operating systems, networking, cybersecurity and cloud fundamentals.
 - 🎯 Developing strong foundations in Windows, Linux, and macOS.
 - 🔧 Hands-on with Google Cloud, AWS, and Azure Free Tiers, LAMP stacks, and virtual machines.
-- ⚙️ Goal: Transition into a cloud or cybersecurity career.
 
 ## 🚀 Portfolio Highlights
 - 📕 **[Digital Humanities Project](https://github.com/JPowers17/encoded-empires):** Omeka Classic exhibit featuring medieval letters, TEI markup, and Voyant Tools visual analysis. Originally deployed and hosted on a GCP VM using a LAMP stack, now preserved in GitHub.
